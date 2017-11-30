@@ -5,11 +5,11 @@ All the codes done in class of Algo++ batch started on 17th dec 2017 at [Coding 
 ---------------
 ## Slack channel
 algo17winter.slack.com
---------------
+
 --------------
 ## Mentor
 Deepak Aggarwal
----------------
+
 ---------------
 ## Assisting Mentor
 Bittoo Aggarwal
