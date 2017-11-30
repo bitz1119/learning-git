@@ -10,5 +10,5 @@ algo17winter.slack.com
 ## Mentor
 Deepak Aggarwal
 
-##Assisting Mentor
+## Assisting Mentor
 Bittoo Aggarwal
